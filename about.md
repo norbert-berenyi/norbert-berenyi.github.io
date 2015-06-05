@@ -4,27 +4,22 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! I created this site to learn something new, witch was [Jekyll](http://jekyllrb.com), but I decided to post stuff here... I hope you like what you see.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Current projects
 
-There are currently two themes built on Poole:
+At the moment I am working at [Gentherm](http://www.gentherm.com/) as a Test Labor trainee, and I am a student at Budapest University of Technology and Economics. Other that theese I am working on a site [Movie42Night](http://movie42night.com/), and plenty of other small sites.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+# Movie42Night
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+The site recommends random movies to watch. It is using Bootsrap and the TMDB API. And is build mainly in PHP. Since the site does not use any database I am planning to upgrade it so it will be full client site.
 
-## Setup
+# Showcase
 
-Some fun facts about the setup of this project include:
+* The Hungarian site of Charlotte Meentzen cosmetics [meentzen.hu](http://www.meentzen.hu/)
+* The site of a small company Esztetiko: hand made table decorations webshop and showcase site. (The website is still in progress.)
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Both sites are powered by WordPress.
 
 Thanks for reading!
