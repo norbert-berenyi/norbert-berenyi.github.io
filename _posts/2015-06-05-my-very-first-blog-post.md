@@ -12,5 +12,3 @@ tags:
 All right. So today I learned a lot about Jekyll, and I decided to try it out. I wanted to make a webpage for myself as a freelancer anyway, this is good learning. :)
 
 About 2 hour of research I managed to put together this site. I'm planning to post about everything I find interesting or useful. Also about my work, witch is practicing in the `webdev` world.
-
-They're responsive, and well-proportioned (in `padding`, `line-height`, `margin`, and `font-size`).
