@@ -10,7 +10,7 @@ So I started to research into the matter. [Reddit](http://www.reddit.com/r/Multi
 
 Cool! Now over to ebay. The first quad in the list was the `Syma X5C-1`. The quad looks fine I guess, the parts are cheap. Because I had no idea if it is a good or a bad starter quadcopter I decided to call for help: back to reddit.
 
-<img src="{{ site.url }}/public/images/syma-x5c.jpg" alt="Syma X5C" />
+<img src="{{ site.url }}/public/images/syma-x5c.jpg" alt="Syma X5C" class="post-image" />
 
 ### One of the first answers was really helpful: [/u/vabann](http://www.reddit.com/user/vabann)
 The X5C-1 is super awesome fun! It was my first quad as well.
