@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Jumping into quadcopters
-time:       2015-06-05 21:36:00
+date:       2015-06-05 21:36:00
 ---
 
 Well after watching several videos on youtube about aerial photography I decided to at least try the hobby. I'm really into the RC world, but never had the money to buy a decent toy. Since I'm working a lot now money is not a problem, time is...
