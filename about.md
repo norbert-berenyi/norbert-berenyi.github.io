@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! I created this site to learn something new, witch was [Jekyll](http://jekyllrb.com), but I decided to post stuff here... I hope you like what you see.
+  Hey there! I created this site to learn something new, witch was Jekyll, but I decided to post stuff here... I hope you like what you see.
 </p>
 
 ## Current projects
@@ -18,7 +18,7 @@ The site recommends random movies to watch. It is using Bootsrap and the TMDB AP
 ### Showcase
 
 * The Hungarian site of Charlotte Meentzen cosmetics [meentzen.hu](http://www.meentzen.hu/)
-* The site of a small company Esztetiko: hand made table decorations webshop and showcase site. (The website is still in progress.)
+* The site of a small company Esztetiko: hand made table decorations webshop and showcase site. (The website is still in developement.)
 
 Both sites are powered by WordPress.
 
