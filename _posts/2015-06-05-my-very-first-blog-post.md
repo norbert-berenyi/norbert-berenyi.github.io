@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      My very first blog post
+time:       2015-06-05 13:36:00
 ---
 
 All right. So today I learned a lot about Jekyll, and I decided to try it out. I wanted to make a webpage for myself as a freelancer anyway, this is good learning. :)
