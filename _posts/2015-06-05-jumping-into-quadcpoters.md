@@ -22,9 +22,7 @@ The X5C-1 is super awesome fun! It was my first quad as well.
 5. get at least 5 extra batteries but MAKE SURE they're at least 600mah and 25c (many replacement batteries for the x5c are 20c)
 
 So I ordered one. It comes with **2 extra batteries**, and two sets of blades.
-
 The shipping time is nearly a month... If it arrives I'll make a post about it.
 
 Until then here is a good review video:
-
 <div class='embed-container'><iframe src='http://www.youtube.com/embed/SmX2w87oxUs' frameborder='0' allowfullscreen></iframe></div>
