@@ -6,9 +6,11 @@ date:       2015-06-05 21:36:00
 
 Well after watching several videos on youtube about aerial photography I decided to at least try the hobby. I'm really into the RC world, but never had the money to buy a decent toy. Since I'm working a lot now money is not a problem, time is...
 
-So I started to research into the matter. [Reddit](http://www.reddit.com/r/Multicopter/) is always a good place to start, this time I did not needed to go further. The most important thing was **not to buy anything expensive** in theory I will break it anyway.
+So I started to research into the matter. [Reddit](http://www.reddit.com/r/Multicopter/) is always a good place to start, this time I did not needed to go further. The most important thing was **not to buy anything expensive**, in theory I will break it anyway.
 
 Cool! Now over to ebay. The first quad in the list was the `Syma X5C-1`. The quad looks fine I guess, the parts are cheap. Because I had no idea if it is a good or a bad starter quadcopter I decided to call for help: back to reddit.
+
+<img src="{{ site.url }}/public/images/syma-x5c.jpg" alt="Syma X5C" />
 
 ### One of the first answers was really helpful: [/u/vabann](http://www.reddit.com/user/vabann)
 The X5C-1 is super awesome fun! It was my first quad as well.
