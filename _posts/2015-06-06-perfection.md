@@ -10,6 +10,6 @@ The title sais it all, she is the perfect women.
 Her name is `Hattie Wattson`, check out her [site](http://www.hattiewatson.com/).
 
 Also a few images:
-![Hattie Wattson](/public/images/hattie-wattson-1.jpg)
-![Hattie Wattson](/public/images/hattie-wattson-2.jpg)
-![Hattie Wattson](/public/images/hattie-wattson-3.jpg)
+![Hattie Wattson](/public/images/hattie-wattson-1.jpg){.post-image}
+![Hattie Wattson](/public/images/hattie-wattson-2.jpg){.post-image}
+![Hattie Wattson](/public/images/hattie-wattson-3.jpg){.post-image}
