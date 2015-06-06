@@ -1,3 +1,14 @@
+/* Sticky header */
+
+.masthead .sticky {
+  font-size: 24px;
+  line-height: 48px;
+  height: 48px;
+  background: #efc47D;
+  text-align: left;
+  padding-left: 20px;
+}
+
 .post-image {
   width: 100%;
 }
