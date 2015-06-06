@@ -1,6 +1,6 @@
 /* Sticky header */
 
-.masthead .sticky {
+.masthead, .sticky {
   font-size: 24px;
   line-height: 48px;
   height: 48px;
