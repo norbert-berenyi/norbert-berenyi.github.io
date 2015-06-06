@@ -31,3 +31,10 @@
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
 </head>
+
+<script>
+  // Opening links in new tabs. So basicly target="_blank", but there's no markdown syntax for it.
+  $(document.links).filter(function() {
+    return this.hostname != window.location.hostname;
+  }).attr('target', '_blank');
+</script>
