@@ -9,7 +9,7 @@ title: About
 
 ## Current projects
 
-At the moment I am working at [Gentherm](http://www.gentherm.com/) as a Test Labor trainee, and I am a student at Budapest University of Technology and Economics. Other that theese I am working on a site [Movie42Night](http://movie42night.com/), and plenty of other small sites.
+At the moment I am working at [Gentherm](http://www.gentherm.com/) as a Test Labor trainee, and I am a student at Budapest University of Technology and Economics. Other than these, I am working on a site [Movie42Night](http://movie42night.com/), and plenty of other small sites.
 
 ### Movie42Night
 
