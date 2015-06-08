@@ -9,7 +9,7 @@ github_username:  norbert-berenyi
 facebook_username:  berenyi.norbert
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 permalink: pretty
 paginate: 5
