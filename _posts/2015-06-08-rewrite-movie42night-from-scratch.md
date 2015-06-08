@@ -35,7 +35,7 @@ public function getMovieById($movieID){
 {% endhighlight %}
 
 This is how the response look like:
-{% highlight php %}
+{% highlight ruby %}
 "adult": false,
  "backdrop_path": "/hNFMawyNDWZKKHU4GYCBz1krsRM.jpg",
  "belongs_to_collection": null,
