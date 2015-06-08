@@ -10,7 +10,7 @@ facebook_username:  berenyi.norbert
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
