@@ -13,7 +13,7 @@ I'm also want to learn more about the whole Git system, so I will upload the sit
 #### I will give you a introduction to how the site works now:
 
 I'm using TMDB API to get the movie data. I have a easy method to generate a random movie Id, this function receives the Id and makes a request:
-{% highlight ruby %}
+{% highlight php %}
 public function getMovieById($movieID){
 	$ch = curl_init();
 
@@ -35,7 +35,7 @@ public function getMovieById($movieID){
 {% endhighlight %}
 
 This is how the response look like:
-{% highlight ruby %}
+{% highlight json %}
 "adult": false,
  "backdrop_path": "/hNFMawyNDWZKKHU4GYCBz1krsRM.jpg",
  "belongs_to_collection": null,
