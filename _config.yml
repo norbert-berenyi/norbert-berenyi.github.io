@@ -1,24 +1,16 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Site settings
+title: Open collector
+header-img: img/home-bg.jpg
+email: berenyi.norbert.mail@gmail.com
+description: "Everything nice, gathered from the World Wide Web."
+baseurl: ""
+url: "http://norbert-berenyi.github.io/"
+github_username:  norbert-berenyi
+facebook_username:  berenyi.norbert
 
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Open Collector
-tagline:          'Everything nice, gathered from the internet.'
-description:      'The blog of a Hungarian engineer student. I will post everything that looks interesting.'
-url:              http://norbert-berenyi.github.io/
-
-author:
-  name:           'Norbert Berényi'
-  url:            http://norbert-berenyi.github.io/
-
-paginate:         5
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           http://norbert-berenyi.github.io/
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
