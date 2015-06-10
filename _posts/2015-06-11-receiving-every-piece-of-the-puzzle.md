@@ -67,8 +67,8 @@ The output looks like a mess:
 
 ![The actual page](/img/2015-06-11-receiveing-every-pieco-of-the-puzzle-01.jpg)
 
-But I know everything is working, now the only thing is to put everything together, which is sounds easy, but I think I'll have a hard time doing it. :)
+But I know everything is working, now the only thing is to put everything together, which is sounds easy, but I think I'll have a hard time doing it. You can check out the full code on [GitHub](https://github.com/norbert-berenyi/movie42night)!
 
-I'm pretty sure I cant upload the theme I bought of themeforest to GitHub, so I think I will just go with basic bootstrap. I'll send a question to the theme owner.
+I'm pretty sure I cant upload the theme I bought of themeforest to GitHub, so I think I will just go with basic bootstrap. I'll send a question to the theme creator.
 
 If you have any idea/question please leave a comment below! See you next time!
