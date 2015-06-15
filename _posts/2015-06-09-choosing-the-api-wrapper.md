@@ -41,6 +41,6 @@ This is the output:
 
 I'm not 100% sure if I should output the data like this, but I found myself having a hard time understanding the variable scope, also opening a `<script>` tag every time I'm outputting something... any good ideas are welcomed!
 
-This is the first step I guess, I am also [created a repository](https://github.com/norbert-berenyi/movie42night) for the site, so you can see the actual code there. I am new to GitHub, never had a repository, so I don't even know how to handle a pull request, keep that in mind. :)
+This is the first step I guess, I am also [created a repository](https://github.com/norbert-berenyi/movie42night-js) for the site, so you can see the actual code there. I am new to GitHub, never had a repository, so I don't even know how to handle a pull request, keep that in mind. :)
 
 The complete PHP written [Movie42Night](http://movie42night.com/) is still up and running so make sure you give it a visit! Until next time!
