@@ -5,12 +5,16 @@ permalink: /about/
 tags: about
 ---
 
+_![Working hard](/images/me.jpg)_
+
 Hey there! I created this website to learn about something new, which was `Jekyll`, after all I decided to keep the site and post stuff... And to use it as my resume, I hope you like what you see.
+
+I am a very open person, I like to interact with the people surrounding me and I consider myself a good developer. Good and rare combination! ;)
 
 
 ## Current job
 
-At the monent I am CTO in my own startup company. It is called [Roxxare](http://www.roxxare.com) and we are guiding amateur eSports teams towards their professional career. We have been selected to one of the best accelerator programs in Budapest, called [Techlab](http://www.techlab.designterminal.hu). I work on the project most of my time, but I am also a freelancer web developer.
+At the monent I am CTO in my own startup company. It is called [Roxxare](http://www.roxxare.com), We are guiding amateur eSports teams towards their professional career. We have been selected to one of the best accelerator programs in Budapest, called [Techlab](http://www.techlab.designterminal.hu). I work on the project most of my time, but I am also a freelancer web developer.
 
 
 ## Programing skills
@@ -22,6 +26,14 @@ At the monent I am CTO in my own startup company. It is called [Roxxare](http://
 * Ruby on Rails (Jekyll)
 
 I am very eager to learn new languages and frameworks, I can adapt to new things fast.
+
+
+## Languages:
+
+* Hungarian (mothertongue)
+* English (fluent)
+* French (beginner)
+
 
 ## History
 
@@ -50,18 +62,6 @@ These project all started with a problem of mine that needed to be solved, but I
 * [Esztetiko](http://www.esztetiko.hu): handmade table decorations showcase site.
 
 All my freelancing projects are powered by [WordPress](http://www.wordpress.org).
-
-### Me in action
-
-I am a very open person, I like to interact with the people surrounding me and I consider myself a good developer. Good and rare combination! ;)
-
-#### Languages:
-
-* Hungarian (mothertongue)
-* English (fluent)
-* French (beginner)
-
-![Working hard](/images/me.jpg)
 
 ---
 
