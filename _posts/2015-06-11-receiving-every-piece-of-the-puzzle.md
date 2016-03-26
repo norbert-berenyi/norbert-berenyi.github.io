@@ -65,7 +65,7 @@ And the targetet HTML looks like this:
 
 The output looks like a mess:
 
-![The actual page](/img/2015-06-11-receiveing-every-pieco-of-the-puzzle-01.jpg)
+![The actual page](/images/2015-06-11-receiveing-every-pieco-of-the-puzzle-01.jpg)
 
 But I know everything is working, now the only thing is to put everything together, which is sounds easy, but I think I'll have a hard time doing it. You can check out the full code on [GitHub](https://github.com/norbert-berenyi/movie42night)!
 
