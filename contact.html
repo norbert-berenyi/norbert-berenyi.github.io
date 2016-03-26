@@ -6,25 +6,59 @@ tags: contact
 ---
 
 <div class="py2">
-  {% if site.ajaxify_contact_form %}
-    <form class="form-stacked">
-      <input type="email" name="email" class="field-light" placeholder="{{ site.text.contact.email }}">
-      <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content }}"></textarea>
-      <input type="text" name="_gotcha" style="display:none" />
-      <button type='submit' class="button button-blue button-big mobile-block">{{ site.text.contact.submit }}</button>
-    </form>
-  {% else %}
-    <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked">
-      <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email }}">
-      <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content }}"></textarea>
-      <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
-      <input type="hidden" name="_subject" value="{{ site.text.contact.subject }}" />
-      <input type="text" name="_gotcha" style="display:none" />
-      <input type="submit" class="button button-blue button-big mobile-block" value="{{ site.text.contact.submit }}">
-    </form>
-  {% endif %}
+    {% if site.ajaxify_contact_form %}
+        <form class="form-stacked">
+            <input type="email" name="email" class="field-light" placeholder="{{ site.text.contact.email }}">
+            <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content }}"></textarea>
+            <input type="text" name="_gotcha" style="display:none" />
+            <button type='submit' class="button button-blue button-big mobile-block">{{ site.text.contact.submit }}</button>
+        </form>
+    {% else %}
+        <div id="form">
+            <div class="p2 bg-red border rounded" v-show="error">
+                Every field is required!
+            </div>
+            <div class="spacer" v-show="error">
+                <br>
+            </div>
+            <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked" @submit="validate">
+                <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email }}" v-model="email">
+                <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content }}" v-model="text"></textarea>
+                <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
+                <input type="hidden" name="_subject" value="{{ site.text.contact.subject }}" />
+                <input type="text" name="_gotcha" style="display:none" />
+                <input type="submit" class="button button-blue button-big mobile-block" value="{{ site.text.contact.submit }}">
+            </form>
+        </div>
+    {% endif %}
 </div>
 
 {% if site.ajaxify_contact_form %}
-  {% include ajaxify_content_form.html %}
+    {% include ajaxify_content_form.html %}
 {% endif %}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/1.0.19/vue.min.js"></script>
+<script src="https://code.jquery.com/jquery-2.2.2.min.js"></script>
+<script>
+    new Vue({
+        el: '#form',
+        data: {
+            email:  '',
+            text:   '',
+            error:  false,
+        },
+
+        methods: {
+            validate: function(event) {
+                event.preventDefault();
+                if (!this.email || !this.text) {
+                    this.error = true;
+                }
+                if (this.email && this.text) {
+                    this.error = false;
+                    $('form').unbind('submit').submit();
+                }
+            }
+        }
+    })
+</script>

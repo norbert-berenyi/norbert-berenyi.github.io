@@ -9,7 +9,7 @@ _![Working hard](/images/me.jpg)_
 
 Hey there! I created this website to learn about something new, which was `Jekyll`. After all I decided to keep the site and post stuff... And to use it as my resume, I hope you like what you see.
 
-I am a very open person, I like to interact with the people surrounding me and I consider myself a good developer. Good and rare combination! ;)
+I am a very open person, I like to interact with the people surrounding me and I consider myself a good developer. Good but rare combination! ;)
 
 
 ## Current job
