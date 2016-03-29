@@ -7,7 +7,7 @@ tags: about
 
 _![Working hard](/images/me.jpg)_
 
-Hey there! I created this website to learn about something new, which was `Jekyll`. After all I decided to keep the site and post stuff... And to use it as my resume, I hope you like what you see.
+Hey there! Originally I created this website to teach myself something new, which was `Jekyll`. After building the site I decided to keep it and post regularly about my professional experiences. Finally I also decided use it as my resume, I hope you like what you see!
 
 I am a very open person, I like to interact with the people surrounding me and I consider myself a good developer. Good but rare combination!
 
