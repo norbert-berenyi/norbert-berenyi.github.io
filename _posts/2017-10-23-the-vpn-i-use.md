@@ -3,8 +3,7 @@ layout:     post
 title:      The VPN of my choice: CactusVPN
 date:       2017-10-23 10:00:00
 summary:    CactusVPN is a small VPN provider based in Moldova. They get a lots of things right.
-categories: jekyll pixyll
-published:  true
+categories: vpn review
 ---
 
 My first rule was to find a company that will protect my identity. Moldova is a good location for a data privacy service because the country lies just outside of the EU. This makes it free from EU data retention obligations. It is also right next door to Romania, which is fast becoming a VPN powerhouse.
