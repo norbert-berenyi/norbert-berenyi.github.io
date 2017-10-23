@@ -2,7 +2,7 @@
 layout:     post
 title:      M42N 01 - Choosing the API Wrapper
 subtitle:   First of all we need to choose how to receive data in JavaScript.
-date:       2015-06-09 12:00:00
+date:       2016-06-09 12:00:00
 author:     Norbert Berényi
 ---
 
