@@ -2,7 +2,7 @@
 layout:     post
 title:      Rewrite Movie42Night from scratch
 subtitle:   I'm starting a series about rebuilding movie42night.com
-date:       2015-06-08 14:30:00
+date:       2016-06-08 14:30:00
 author:     Norbert Berényi
 ---
 
