@@ -2,7 +2,7 @@
 layout:     post
 title:      M42N 02 - Receiving every piece of the puzzle
 subtitle:   Now that I can write code in JavaScript, it is time to gather all the data we need.
-date:       2015-06-11 00:30:00
+date:       2016-06-11 00:30:00
 author:     Norbert Berényi
 ---
 
