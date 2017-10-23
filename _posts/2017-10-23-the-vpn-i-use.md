@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The VPN of my choice: CactusVPN
+title:      The VPN of my choice
 date:       2017-10-23 10:00:00
 summary:    CactusVPN is a small VPN provider based in Moldova. They get a lots of things right.
 categories: vpn review
