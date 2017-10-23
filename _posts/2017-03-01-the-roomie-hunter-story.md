@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The RoomieHunter story
-date:       2016-03-01 00:00:00
+date:       2017-03-01 00:00:00
 summary:    Or how we aren't helping Erasmus students to find their prefect flatmates and flat.
 categories: startup story 
 ---
