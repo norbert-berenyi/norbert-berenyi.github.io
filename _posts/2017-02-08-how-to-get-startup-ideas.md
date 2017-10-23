@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      How to get startup ideas
-date:       2016-02-08 08:00:00
+date:       2017-02-08 08:00:00
 summary:    The way to get startup ideas is not to try to think of startup ideas. It's to look for problems, preferably problems you have yourself.
 categories: startup story 
 ---
